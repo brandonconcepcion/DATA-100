@@ -7,7 +7,7 @@ Taught by [**Joseph Gonzalez**](https://people.eecs.berkeley.edu/~jegonzal/) and
 </p>
 
 The main topics covered in the course: 
-- [PANDAS](https://pandas.pydata.org/)
+- [Pandas](https://pandas.pydata.org/)
 - Exploratory Data Analysis
 - Regular Expressions (Regex)
 - Sampling Techniques
@@ -22,7 +22,7 @@ The main topics covered in the course:
 - Estimators, Bias, and Variance
 - Bootstrapping and Parameter Inference
 - SQL
-- LOGISTIC REGRESSIOn
+- Logistic Regression
 - Principal Component Analysis
 - Clustering
 
