@@ -15,7 +15,7 @@ The main topics covered in the course:
 - Simple Linear Regression and Ordinary Least Squares
 - Loss Functions 
 - Gradient Descent
-- Feature Enginerring
+- Feature Engineering
 - Cross Validation
 - Regularization
 - Random Variables
