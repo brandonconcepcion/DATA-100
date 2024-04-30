@@ -1,4 +1,4 @@
-# [COMPSCI 70](https://ds100.org/sp24/) - Principles and Techniques of Data Science
+# [DATA 100](https://ds100.org/sp24/) - Principles and Techniques of Data Science
 
 Taught by [**Joseph Gonzalez**](https://people.eecs.berkeley.edu/~jegonzal/) and **Narges Norouzi**
 
