@@ -6,6 +6,10 @@ Taught by [**Joseph Gonzalez**](https://people.eecs.berkeley.edu/~jegonzal/) and
     <img src="https://ds100.org/course-notes-su23/data100_logo.png" alt="70 Logo" width="300"/>
 </p>
 
+**NOTE**: 
+- Week 8 was a Case Study week, so I didn't write notes on those
+- Week 11 was Spring break
+
 The main topics covered in the course: 
 - [Pandas](https://pandas.pydata.org/)
 - Exploratory Data Analysis
