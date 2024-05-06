@@ -7,7 +7,7 @@ Taught by [**Joseph Gonzalez**](https://people.eecs.berkeley.edu/~jegonzal/) and
 </p>
 
 **NOTE**: 
-- Week 8 lecture Case Study, so I didn't write notes on those
+- Week 8's lecture was a Case Study, so I didn't write notes on those
 - Week 11 was Spring break
 
 The main topics covered in the course: 
